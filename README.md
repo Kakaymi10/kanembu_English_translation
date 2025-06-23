@@ -94,6 +94,3 @@ Given the limited size of the dataset, the model's performance was assessed usin
 4. **Hyperparameter Tuning:** Experimenting with different hyperparameters, such as batch size and learning rate, could further refine the training process.
 5. **Use Smoothing in BLEU Score:** The warnings about the BLEU score suggest using a smoothing function to handle cases where n-gram overlaps are scarce.
 
----
-
-By addressing these limitations and implementing improvements, the model could potentially deliver better translation results.
